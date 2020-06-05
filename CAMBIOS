@@ -1,0 +1,8 @@
+include/allegro/internal/alconfig.h: Se incluye ALLEGRO_DC
+include/allegro/platform/aldccfg.h: Nuevo include con la configuracion para DC
+include/allegro/platform/aldc.h: Nuevo include con los drivers para DC
+include/allegro/internal/aintern.h: Buscar ALLEGRO_DC
+include/allegro/inline/gfx.inl: Buscar ALLEGRO_DC
+include/dcalleg.h: Incluido para Dreamcast
+src/dc/*: Dreamcast port drivers.
+src/config.c: A small fix for Dreamcast (see DREAMCAST tag)
