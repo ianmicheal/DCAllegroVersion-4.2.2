@@ -1,5 +1,5 @@
 # DCAllegroVersion-4.2.2
-Port of Allegro by chui
+Port of Allegro by chui Pulled from my archive back from the dead :)
 ======================================
 ============ Introduction ============
 ======================================
